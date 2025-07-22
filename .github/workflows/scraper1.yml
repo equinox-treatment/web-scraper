@@ -19,4 +19,4 @@ jobs:
         run: npm install puppeteer
       - name: Visit site with Puppeteer
         run: |
-          node visit-site.js
+          node scraper.js
